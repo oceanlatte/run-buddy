@@ -308,7 +308,7 @@ section {
 }
 
 .step h3 {
-    color: #var(--secondary-color);
+    color: var(--secondary-color);
     font-size: 46px;
     flex: 1 30%;
 }
@@ -454,7 +454,7 @@ section {
 .contact-form button {
     width: 100%;
     border: none;
-    background: #var(--primary-color);
+    background: var(--primary-color);
     text-align: center;
     padding: 15px 0;
     font-size: 16px;
