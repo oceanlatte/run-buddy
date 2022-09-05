@@ -5,10 +5,10 @@ A website that offers fitness trainer services.
 
 ## Built With
 * HTML
-*  CSS
+* CSS
 
-## Webbsite
-https://lernantino.github.io/run-buddy/
+## Website
+https://oceanlatte.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ocean Veliz
